@@ -1,0 +1,5 @@
+img2vec-pytorch
+st-pages  # Replace with the correct package name if different
+nltk
+streamlit
+scikit-learn==1.4.2
